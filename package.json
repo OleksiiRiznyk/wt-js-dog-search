@@ -3,7 +3,7 @@
     "private": true,
     "version": "0.0.0",
     "type": "module",
-    "homepage": "https://github.com/tamelark/wt-js-dog-search",
+    "homepage": "https://github.com/OleksiiRiznyk/wt-js-dog-search",
     "scripts": {
       "dev": "vite",
       "build": "vite build --base=/wt-js-dog-search/",
